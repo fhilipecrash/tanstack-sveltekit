@@ -20,6 +20,7 @@
 	<nav class="p-4 border-b border-gray-200 mb-4">
 		<a href="/" class="text-lg font-bold">Home</a>
 		<a href="/posts" class="ml-4 text-lg font-bold">Posts</a>
+		<a href="/profile" class="ml-4 text-lg font-bold">Profile</a>
 	</nav>
 	{@render children?.()}
 </QueryClientProvider>
